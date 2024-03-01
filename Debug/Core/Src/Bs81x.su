@@ -1,0 +1,3 @@
+../Core/Src/Bs81x.c:15:10:Bs81x_ReadData	24	static,ignoring_inline_asm
+../Core/Src/Bs81x.c:38:6:Bs81x_Init	8	static
+../Core/Src/Bs81x.c:55:9:Bs81x_Scan	16	static
